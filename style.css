@@ -3,51 +3,61 @@
 {width:80%;
 	height:25px;
 	background-color:#2ECC71;
-  float:left;}
+	float: left;
+}
 
 #bleu_clair
 {width:20%;
 	height:25px;
 	background-color:#3980D1;
-  float:left;}
+	float: left;
+}
+
 
 #rouge
 {width:33%;
 	height:55px;
 	background-color:#DD493A;
-  float:left;}
+	float: left;
+}
 
 #orange
 {width:33%;
 height:27px;
 background-color:#E67E22;
-float:left;}
+float: left;
+}
 
 #gris
 {width:34%;
 height:27px;
 background-color:#95A5A6;
-float:left;}
+float: left;
+}
 
 #orange_clair
 {width:22%;
 height:28px;
 background-color:#F39C12;
-float:left;}
+float: left;
+}
 #viride
 {width:22%;
 height:28px;
 background-color:#16A085;
-float:left;}
+float: left;
+}
 
 #orange_foncé
 {width:23%;
 height:28px;
 background-color:#D35400;
-float:left;}
+float: left;
+}
 
 #bleu_gris
 {width:100%;
 height:70px;
 background-color:#2C3E50;
-float:left;}
+float: left;
+}

@@ -1,0 +1,72 @@
+#contenaire0 {
+  display: flex;
+  width: 100%;
+  flex-wrap: wrap;
+}
+
+  #vert
+  { width:80%;
+  	height:25px;
+  	background-color:#2ECC71;
+  }
+
+  #bleu_clair
+  {width:20%;
+  	height:25px;
+  	background-color:#3980D1;
+
+  }
+
+
+  #rouge
+  {width:33%;
+  	height:55px;
+  	background-color:#DD493A;
+
+  }
+ #contenaire1
+{ display: flex;
+  width: 67%;
+  flex-wrap: wrap;
+}
+
+  #orange
+  {width:50%;
+  height:27px;
+  background-color:#E67E22;
+
+  }
+
+  #gris
+  {width:50%;
+  height:27px;
+  background-color:#95A5A6;
+
+  }
+
+  #orange_clair
+  {width:33%;
+  height:28px;
+  background-color:#F39C12;
+
+  }
+  #viride
+  {width:34%;
+  height:28px;
+  background-color:#16A085;
+
+  }
+
+  #orange_foncé
+  {width:33%;
+  height:28px;
+  background-color:#D35400;
+
+  }
+
+  #bleu_gris
+  {width:100%;
+  height:70px;
+  background-color:#2C3E50;
+
+  }
